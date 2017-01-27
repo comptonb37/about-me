@@ -1,8 +1,10 @@
 # about-me
+Brian Compton
+
+TL;DR: Brian studies computer science and vocal performance at Allegheny College, and is looking to pursue computer forensics as a job field.
+
 Brian was born in Tampa, Florida in 1997. He was the second of two children, and his parents were able to give him everything he could have possibly needed. They always worked hard to make sure his needs were fulfilled and that he could experiment with anything he pleased. He spent a lot of time playing with computers both understanding vaguely how they work and playing video games on them.
 
 Brian attended Academy at the Lakes and graduated in 2016. There, he discovered his love for forensic science, but has no toleration for blood so he feared his future in this field was over. His parents, however, showed him all of the possible areas of study in forensic science, and he found a strong interest in computer science. Brian has always been fascinated with computers, and his parents fueled his interest with lessons in computer hardware and programs from a young age, but he always wanted to learn more about their intricacies. Brian also took many AP courses in English, but can say he learned the most about writing from him AP English Language teacher Kim Vreeland. Vreeland taught Brian that the key to writing is through use of rhetoric. The fact that he is currently blogging in a college course would please her greatly.
 
 After Academy, Brian applied to and was approved for admission to Allegheny College in 2016. There he decided to test his desire to study computer science. His findings were astounding; he already knows that he wants to major in the field and find opportunities to study the field at all times! His current freshman seminar course focused around the field and is excited to share his experiences with the field while developing his english and programming skills. Brian is also what many would call a "choir nerd," and is planning to major in vocal performance. He participates in multiple ensembles at the college; he is a member of both the Men's Ensemble and Choir Ensemble, which is co-ed. Although he has a strong passion for music, his passion for computer science always drives him to prioritize his discoveries and innovations within the study of computers.
-
-TL;DR: Brian studies computer science and vocal performance at Allegheny College, and is looking to pursue computer forensics as a job field.
