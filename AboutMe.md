@@ -1,7 +1,7 @@
 # about-me
 ## Brian Compton
 
-TL;DR: Brian studies computer science and vocal performance at Allegheny College, and is looking to pursue computer forensics as a job field.
+TL;DR: Brian is a first-year student who studies computer science and vocal performance at Allegheny College, and is looking to pursue computer forensics as a job field.
 
 Brian was born in Tampa, Florida in 1997. He was the second of two children, and his parents were able to give him everything he could have possibly needed. They always worked hard to make sure his needs were fulfilled and that he could experiment with anything he pleased. He spent a lot of time playing with computers both understanding vaguely how they work and playing video games on them.
 
